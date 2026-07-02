@@ -842,12 +842,6 @@ nav i {
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 2px;
-    cursor: pointer;
-    transition: background .3s;
-}
-
-.login-btn:hover {
-    background: #c9a66b;
 }
 
 .signup-text {
